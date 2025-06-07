@@ -6,4 +6,4 @@ This is a solution to the [Blog preview component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [https://rohithpampari-thg.github.io/blog-preview-card/](https://rohithpampari-thg.github.io/blog-preview-card/)
+- Live Site URL: [https://rohithpampari-thg.github.io/blog-preview/](https://rohithpampari-thg.github.io/blog-preview/)
