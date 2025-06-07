@@ -1,9 +1,9 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
+This is a solution to the [Blog preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
 
 
 
 ### Links
 
-- Live Site URL: [https://rohithpampari-thg.github.io/qr-code-component/](https://rohithpampari-thg.github.io/blog-preview-card/)
+- Live Site URL: [https://rohithpampari-thg.github.io/blog-preview-card/](https://rohithpampari-thg.github.io/blog-preview-card/)
