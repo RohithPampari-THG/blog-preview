@@ -3,6 +3,7 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
 
 
+
 ### Links
 
 - Live Site URL: [https://rohithpampari-thg.github.io/qr-code-component/](https://rohithpampari-thg.github.io/blog-preview-card/)
